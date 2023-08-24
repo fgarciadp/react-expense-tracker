@@ -10,5 +10,5 @@ export const Balance = () => {
             $0.00
         </h1>
     </div>
-  )
+  );
 }
